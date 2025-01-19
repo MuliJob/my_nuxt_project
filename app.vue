@@ -9,6 +9,7 @@
           </li>
         </ul>
       </header>
+      <Header />
       <NuxtPage />
     </NuxtLayout>
   </div>

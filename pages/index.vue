@@ -1,5 +1,8 @@
+
+
 <template>
   <div>
-    index page
+    <Alert />
+    <Profile />
   </div>
 </template>
