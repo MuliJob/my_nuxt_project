@@ -2,7 +2,8 @@
 
 <template>
   <div>
-    <Alert />
-    <Profile />
+    <!-- <Alert />
+    <Profile /> -->
+    Main Page
   </div>
 </template>

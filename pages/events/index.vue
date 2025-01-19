@@ -1,3 +1,5 @@
 <template>
-  <div>Events page</div>
+  <div class="Custom Page">
+    Custom Page Events page
+  </div>
 </template>
