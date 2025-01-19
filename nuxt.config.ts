@@ -4,7 +4,14 @@ export default defineNuxtConfig({
   alias: {
     "@": resolve(__dirname, "/")
   },
-
   css: ["~/assets/main.scss"],
-  compatibilityDate: "2025-01-19"
+  devtools: {
+    enabled: true
+  },
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
 })
